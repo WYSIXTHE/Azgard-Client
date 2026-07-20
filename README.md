@@ -15,7 +15,7 @@
 ## Information
 
 - Minecraft version: ```Fabric``` 1.21.1
-- Default ClickGui keybind - **```P```*
+- Default ClickGui keybind - **```P```**
 
 ## Requires these mods:
 
